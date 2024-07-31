@@ -11,6 +11,7 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 ## v1.1.0
 
 - add Sqrt
+- go mod update
 
 ## v1.0.0
 
