@@ -5,7 +5,7 @@
 package math
 
 func Sum[T ~float64 | ~int64 | ~uint64 | ~int](values []T) T {
-	var result T = 0
+	var result T
 	for _, v := range values {
 		result += v
 	}
