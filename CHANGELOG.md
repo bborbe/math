@@ -8,6 +8,14 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 * MINOR version when you add functionality in a backwards-compatible manner, and
 * PATCH version when you make backwards-compatible bug fixes.
 
+## v1.3.2
+
+- Update Go to 1.25.7
+- Update github.com/google/osv-scanner/v2 to v2.3.2
+- Update github.com/onsi/ginkgo/v2 to v2.28.1
+- Update github.com/onsi/gomega to v1.39.1
+- Update various indirect dependencies for security and stability
+
 ## v1.3.1
 
 - Update Go to 1.25.5
