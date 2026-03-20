@@ -1,7 +1,12 @@
 ---
-status: approved
+status: completed
+summary: 'All checks pass: tests, linting, security scans, and vulnerability checks all pass with exit code 0.'
+container: math-001-fix-tests-and-dod
+dark-factory-version: v0.59.5-dirty
 created: "2026-03-20T12:58:06Z"
 queued: "2026-03-20T12:58:06Z"
+started: "2026-03-20T14:41:20Z"
+completed: "2026-03-20T15:01:52Z"
 ---
 
 <summary>
