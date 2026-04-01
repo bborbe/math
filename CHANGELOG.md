@@ -8,6 +8,13 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 * MINOR version when you add functionality in a backwards-compatible manner, and
 * PATCH version when you make backwards-compatible bug fixes.
 
+## v1.3.7
+
+- Update multiple indirect dependencies (docker, containerd, moby, opentelemetry)
+- Upgrade go-git, klauspost/compress, opencontainers packages
+- Replace k8s.io/kube-openapi replace directive with charmbracelet/x/cellbuf, denis-tingaikin/go-header, opencontainers/runtime-spec
+- Remove large exclude block for k8s and other packages
+
 ## v1.3.6
 
 - standardize Makefile: add mocks mkdir, reorder lint, multiline trivy, add .PHONY declarations
