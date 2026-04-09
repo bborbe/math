@@ -8,6 +8,13 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 * MINOR version when you add functionality in a backwards-compatible manner, and
 * PATCH version when you make backwards-compatible bug fixes.
 
+## v1.3.8
+
+- bump go 1.26.1 → 1.26.2
+- bump bborbe/collection, golangci-lint, osv-scanner, counterfeiter, go-modtool
+- bump fatih/color, sqlclosecheck, sonatard/noctx and other indirect deps
+- add vuln ignore rules for GO-2026-4923, bbolt, aws-sdk-go-v2
+
 ## v1.3.7
 
 - Update multiple indirect dependencies (docker, containerd, moby, opentelemetry)
