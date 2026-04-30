@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## v1.3.9
+
+- chore: Migrate to tools.env + Makefile @version pattern; remove tools.go and obsolete replace block. go.mod reduced from 447 lines to 38 lines.
+
 Please choose versions by [Semantic Versioning](http://semver.org/).
 
 * MAJOR version when you make incompatible API changes,
