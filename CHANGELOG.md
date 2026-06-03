@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## v1.3.11
+
+- bump go toolchain to 1.26.4
+- bump bborbe/collection, bborbe/errors, onsi/ginkgo, onsi/gomega
+- bump golang.org/x/net, x/sys, x/text for security fixes
+- drop standalone errcheck + gosec; move config into golangci.yml
+- add cloud.google.com/go v0.26.0 exclude
+
 ## v1.3.10
 
 - bump Go toolchain from 1.26.2 to 1.26.3
