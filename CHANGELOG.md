@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## v1.3.12
+
+- Bump github.com/bborbe/collection to v1.20.13
+- Bump test dependencies: ginkgo v2.32.0, gomega v1.42.1
+- Bump indirect dependencies: run, sentry-go, golang.org/x/*
+
 ## v1.3.11
 
 - bump go toolchain to 1.26.4
