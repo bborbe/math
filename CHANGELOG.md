@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## v1.3.14
+
+- Bump github.com/bborbe/collection to v1.20.16
+- Bump github.com/bborbe/run to v1.9.29
+- Bump github.com/getsentry/sentry-go to v0.47.0
+
 ## v1.3.13
 
 - Bump github.com/bborbe/collection to v1.20.15
