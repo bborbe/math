@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## v1.3.15
+
+- Update github.com/bborbe/collection to v1.20.17
+- Update github.com/bborbe/run to v1.9.30
+
 ## v1.3.14
 
 - Bump github.com/bborbe/collection to v1.20.16
