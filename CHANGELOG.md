@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## v1.3.16
+
+- bump Go toolchain to 1.26.5
+
 ## v1.3.15
 
 - Update github.com/bborbe/collection to v1.20.17
