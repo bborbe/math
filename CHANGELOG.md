@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+- docs: add a License section to the README
+
 ## v1.3.17
 
 - Bump `golang.org/x/text` to v0.39.0 (CVE-2026-56852)
