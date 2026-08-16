@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+- update Go to 1.26.6 and update dependencies
+
 ## v1.3.18
 
 - docs: add a License section to the README
