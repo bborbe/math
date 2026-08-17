@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## v1.3.19
 
 - update Go to 1.26.6 and dependencies (fixes GO-2026-5972, GO-2026-6090, CVE-2026-56864, CVE-2026-56865)
 
