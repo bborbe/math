@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## v1.3.20
 
 - update dependencies: github.com/bborbe/collection to v1.20.21, github.com/bborbe/errors to v1.5.18, github.com/bborbe/run to v1.9.35
 
