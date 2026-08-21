@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+- chore: Reorder format target so gofmt -w runs last after golines (Go 1.27 tooling compatibility)
+- chore: Bump golangci-lint to v2.13.1 (fixes staticcheck buildir panic on Go 1.27 AST)
+- chore: Bump errcheck to v1.20.0 (fixes `package "context" without types` on Go 1.27)
+
 ## v1.3.20
 
 - update dependencies: github.com/bborbe/collection to v1.20.21, github.com/bborbe/errors to v1.5.18, github.com/bborbe/run to v1.9.35
