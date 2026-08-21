@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## v1.3.21
 
 - chore: Reorder format target so gofmt -w runs last after golines (Go 1.27 tooling compatibility)
 - chore: Bump golangci-lint to v2.13.1 (fixes staticcheck buildir panic on Go 1.27 AST)
