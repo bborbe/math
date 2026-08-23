@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+- chore: update Go to 1.27.0 and github.com/bborbe/collection to v1.20.23, github.com/onsi/ginkgo/v2 to v2.32.1
+
 ## v1.3.21
 
 - chore: Reorder format target so gofmt -w runs last after golines (Go 1.27 tooling compatibility)
