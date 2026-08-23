@@ -4,3 +4,5 @@ prReviewer:
   autoApprove: true
 goUpdate:
   autoUpdate: true
+autoMerge:
+  trivial: true
