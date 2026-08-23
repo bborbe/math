@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## v1.4.2
 
 - chore: temporarily disable autoMerge.trivial (rollback validation)
 
