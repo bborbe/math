@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 ## v1.4.2
 
 - chore: temporarily disable autoMerge.trivial (rollback validation)
+- feat: re-enable autoMerge.trivial (30-day canary observation restored after rollback validation)
 
 ## v1.4.1
 
