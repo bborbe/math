@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## v1.4.4
 
 - chore: update Go to 1.27.0 and github.com/bborbe/collection to v1.20.23, github.com/onsi/ginkgo/v2 to v2.32.1
 
