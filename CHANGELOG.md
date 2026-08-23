@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+- chore: bump Go to 1.26.7
+
 ## v1.4.0
 
 - feat: opt into autoMerge.trivial for trivial-PR auto-merge (e2e canary)
