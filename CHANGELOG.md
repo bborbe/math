@@ -2,22 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
-## v1.4.3
+## Unreleased
 
-- docs: v0.6.2 verdict-failclose canary note (config-only diff — no Go changes)
-
-## v1.4.2
-
-- chore: temporarily disable autoMerge.trivial (rollback validation)
-- feat: re-enable autoMerge.trivial (30-day canary observation restored after rollback validation)
-
-## v1.4.1
-
-- chore: bump Go to 1.26.7
-
-## v1.4.0
-
-- feat: opt into autoMerge.trivial for trivial-PR auto-merge (e2e canary)
+- chore: update Go to 1.27.0 and github.com/bborbe/collection to v1.20.23, github.com/onsi/ginkgo/v2 to v2.32.1
 
 ## v1.3.21
 
