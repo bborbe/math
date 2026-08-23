@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## v1.4.3
 
 - docs: v0.6.2 verdict-failclose canary note (config-only diff — no Go changes)
 
