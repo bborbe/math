@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+- feat: opt into autoMerge.trivial for trivial-PR auto-merge (e2e canary)
+
 ## v1.3.21
 
 - chore: Reorder format target so gofmt -w runs last after golines (Go 1.27 tooling compatibility)
