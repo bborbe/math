@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+- chore: temporarily disable autoMerge.trivial (rollback validation)
+
 ## v1.4.1
 
 - chore: bump Go to 1.26.7
