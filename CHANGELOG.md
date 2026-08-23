@@ -2,8 +2,6 @@
 
 All notable changes to this project will be documented in this file.
 
-- feat: add Double function
-
 ## Unreleased
 
 - feat: add Double function
