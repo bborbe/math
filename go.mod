@@ -3,7 +3,7 @@ module github.com/bborbe/math
 go 1.27.0
 
 require (
-	github.com/bborbe/collection v1.20.23
+	github.com/bborbe/collection v1.20.24
 	github.com/onsi/ginkgo/v2 v2.32.1
 	github.com/onsi/gomega v1.42.1
 )
