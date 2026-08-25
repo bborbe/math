@@ -10,7 +10,7 @@ require (
 
 require (
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
-	github.com/bborbe/errors v1.5.20 // indirect
+	github.com/bborbe/errors v1.5.21 // indirect
 	github.com/bborbe/run v1.9.37 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
