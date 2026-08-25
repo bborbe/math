@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+- chore: update go module dependencies
+
 ## v1.4.6
 
 - chore: update github.com/bborbe/collection to v1.20.24
