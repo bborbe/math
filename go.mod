@@ -3,18 +3,18 @@ module github.com/bborbe/math
 go 1.27.0
 
 require (
-	github.com/bborbe/collection v1.20.24
+	github.com/bborbe/collection v1.20.25
 	github.com/onsi/ginkgo/v2 v2.32.1
 	github.com/onsi/gomega v1.42.1
 )
 
 require (
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
-	github.com/bborbe/errors v1.5.21 // indirect
-	github.com/bborbe/run v1.9.37 // indirect
+	github.com/bborbe/errors v1.6.0 // indirect
+	github.com/bborbe/run v1.10.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/getsentry/sentry-go v0.48.0 // indirect
+	github.com/getsentry/sentry-go v0.49.0 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/golang/glog v1.2.5 // indirect
