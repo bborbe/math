@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+- chore: update github.com/onsi/gomega to v1.43.0
+
 ## v1.4.10
 
 - chore: update Go to 1.27.1 and github.com/bborbe/collection to v1.20.27
