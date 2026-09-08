@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## v1.4.11
 
 - chore: update github.com/onsi/gomega to v1.43.0
 
