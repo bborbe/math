@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## v1.4.14
 
 - chore: update github.com/onsi/ginkgo/v2 to v2.33.1, github.com/onsi/gomega to v1.44.0
 
