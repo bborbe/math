@@ -38,3 +38,9 @@ var _ = Describe("Max", func() {
 		})
 	})
 })
+
+var _ = Describe("scratch probe", func() {
+	It("fails deliberately", func() {
+		Fail("scratch probe: intentional failure")
+	})
+})
