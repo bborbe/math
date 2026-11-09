@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## v1.4.18
+
+- chore: update github.com/bborbe/collection to v1.21.5
+
+## v1.4.17
+
+- chore: bump golang.org/x/net to v0.62.0 (CVE-2026-97045)
+
+## v1.4.16
+
+- chore: update Go to 1.27.3 and github.com/bborbe/collection to v1.21.3
+
 ## v1.4.15
 
 - chore: update github.com/bborbe/collection to v1.21.2
