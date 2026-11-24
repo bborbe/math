@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## v1.4.21
 
 - chore: remove 20 stale vulnerability ignore IDs
 - ci: install Trivy from a pinned, checksum-verified release tarball so the test job stops failing on the removed `apt-key` helper
