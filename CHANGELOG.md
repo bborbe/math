@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+- chore: remove 20 stale vulnerability ignore IDs
+- ci: install Trivy from a pinned, checksum-verified release tarball so the test job stops failing on the removed `apt-key` helper
+
 ## v1.4.20
 
 - chore: update Go to 1.27.4 and github.com/bborbe/collection to v1.21.7
