@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+- chore: update github.com/bborbe/collection to v1.21.9
+
 ## v1.4.21
 
 - chore: remove 20 stale vulnerability ignore IDs
